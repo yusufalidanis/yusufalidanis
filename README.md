@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEnd & BackEnd Development.
 - 🌱 I’m currently learning Python & Django.
   
-- What I have been plannig here is to share what I learn through my full-stack development journey by typing my blog articles that ranges lots of instructive contents from science to sport, books to everyday life while inspiring new learners.
+- What I have been plannig here is to share what I learn through my full-stack development journey by typing my blog articles that ranges from lots of instructive contents such as science, sport, books and everyday life.
 
 - We will reach these wealthy contex in a different repo which will be named MyBlog.
 
