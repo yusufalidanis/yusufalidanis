@@ -6,7 +6,7 @@
 
 - We will reach these wealthy contex in a different repo which will be named MyBlog.
 
-- Last but least, as I improve myself I will merge FrontEnd & BackEnd informations to develop small but effective goal-driven tools which is most exciting and admiring part of software development.
+- Last but not least, as I improve myself I will merge FrontEnd & BackEnd informations to develop small but effective goal-driven tools which is most exciting and admiring part of software development.
 
 - We will reach these goal-oriented tools in Projects repo.
 
